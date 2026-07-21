@@ -1,5 +1,7 @@
 # Marketing-Growth-Analytics
 
+# 📊 Project 7 – Airline Customer Satisfaction Analysis
+
 ## Overview
 This project analyzes airline customer satisfaction to identify service factors that influence customer experience and loyalty.
 
